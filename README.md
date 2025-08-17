@@ -77,7 +77,7 @@ The notebook’s final comparison shows the following (**selected highlights**):
 
 ## Repository Structure
 ```
-AIML-Travel-Package-Purchase-Prediction/
+Travel-Package-Purchase-Prediction/
 ├── TravelPackagePredicitionProject.ipynb # Main notebook
 ├── Tourism.xlsx # Dataset (sheet: Tourism)
 └── README.md # Project documentation
